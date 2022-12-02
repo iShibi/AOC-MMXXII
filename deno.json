@@ -2,7 +2,9 @@
 	"$schema": "https://deno.land/x/deno/cli/schemas/config-file.v1.json",
 	"tasks": {
 		"d1p1": "deno run --allow-read=. src/day_1/part_1.ts",
-		"d1p2": "deno run --allow-read=. src/day_1/part_2.ts"
+		"d1p2": "deno run --allow-read=. src/day_1/part_2.ts",
+		"d2p1": "deno run --allow-read=. src/day_2/part_1.ts",
+		"d2p2": "deno run --allow-read=. src/day_2/part_2.ts"
 	},
 	"fmt": {
 		"files": {
