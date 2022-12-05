@@ -8,7 +8,9 @@
 		"d3p1": "deno run --allow-read=. src/day_3/part_1.ts",
 		"d3p2": "deno run --allow-read=. src/day_3/part_2.ts",
 		"d4p1": "deno run --allow-read=. src/day_4/part_1.ts",
-		"d4p2": "deno run --allow-read=. src/day_4/part_2.ts"
+		"d4p2": "deno run --allow-read=. src/day_4/part_2.ts",
+		"d5p1": "deno run --allow-read=. src/day_5/part_1.ts",
+		"d5p2": "deno run --allow-read=. src/day_5/part_2.ts"
 	},
 	"fmt": {
 		"files": {
