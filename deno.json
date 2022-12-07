@@ -12,7 +12,9 @@
 		"d5p1": "deno run --allow-read=. src/day_5/part_1.ts",
 		"d5p2": "deno run --allow-read=. src/day_5/part_2.ts",
 		"d6p1": "deno run --allow-read=. src/day_6/part_1.ts",
-		"d6p2": "deno run --allow-read=. src/day_6/part_2.ts"
+		"d6p2": "deno run --allow-read=. src/day_6/part_2.ts",
+		"d7p1": "deno run --allow-read=. src/day_7/part_1.ts",
+		"d7p2": "deno run --allow-read=. src/day_7/part_2.ts"
 	},
 	"fmt": {
 		"files": {
